@@ -7,3 +7,4 @@
 
 
 ### Public Health Projects
+[Camai CHC COVID Data System](/public_health/camai.md)
