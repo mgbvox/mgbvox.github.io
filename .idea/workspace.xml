@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dccd6f5-cf27-4c4d-bc11-59758a1f609c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/home.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/trustyip.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +31,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -44,6 +45,7 @@
       <workItem from="1626205022700" duration="28000" />
       <workItem from="1626205060785" duration="300000" />
       <workItem from="1626205390125" duration="48000" />
+      <workItem from="1626901555577" duration="556000" />
     </task>
     <servers />
   </component>
