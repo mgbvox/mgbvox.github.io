@@ -1,12 +1,9 @@
 # Welcome to Matthew Billman's Code Portfolio!
 
-## Open Source Packages
+## Networking Utils
 
 ### [fastapi-docker-traefik-https](https://github.com/apteryxlabs/fastapi-docker-traefik-https)
 Quick configuration of Traefik, Docker Compose, and FastAPI for HTTPS webapps.
-
-### [apteryx-utils](https://github.com/apteryxlabs/apteryx_utils)
-A compilation of various utility functions derived over the course of work at Apteryx Labs.
 
 ## Machine Learning
 
@@ -22,7 +19,15 @@ Various adaptions of the Transformer machine learning architecture, for use in v
 
 <br>
 
-## Public Health Projects
+## Public Health
 
 ### [Camai CHC COVID Data System](/public_health/camai.md)
-A COVID testing and patient monitoring system developed in partnership with the Camai Community Health Center, the State of Alaska, and Cue Health. 
+A COVID testing and patient monitoring system developed in partnership with the Camai Community Health Center, the State of Alaska, and Cue Health.
+
+## The ibidPREP Software Suite
+
+### [ibidPREP.com](https://ibidprep.com)
+An e-commerce, blog, student portal, and performance diagnostics site build for ibidPREP in Manhattan, NY.
+
+### [Reportgen](https://github.com/mgbvox/rg-public)
+A test grading and report generation software that serves as the glue between ibidPrep's many sources of data.
