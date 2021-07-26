@@ -20,9 +20,9 @@ Various adaptions of the Transformer machine learning architecture, for use in v
 <li>Simulated Annealing</li>
 <li>Semantic Highlighting</li>
 
-
+<br>
 
 ## Public Health Projects
 
-###[Camai CHC COVID Data System](/public_health/camai.md)
+### [Camai CHC COVID Data System](/public_health/camai.md)
 A COVID testing and patient monitoring system developed in partnership with the Camai Community Health Center, the State of Alaska, and Cue Health. 
