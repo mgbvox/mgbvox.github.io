@@ -3,8 +3,10 @@
 ## Open Source Packages
 
 ### [fastapi-docker-traefik-https](https://github.com/apteryxlabs/fastapi-docker-traefik-https)
-
 Quick configuration of Traefik, Docker Compose, and FastAPI for HTTPS webapps.
+
+### [apteryx-utils](https://github.com/apteryxlabs/apteryx_utils)
+A compilation of various utility functions derived over the course of work at Apteryx Labs.
 
 ## Machine Learning
 
@@ -23,3 +25,4 @@ Various adaptions of the Transformer machine learning architecture, for use in v
 ## Public Health Projects
 
 ###[Camai CHC COVID Data System](/public_health/camai.md)
+A COVID testing and patient monitoring system developed in partnership with the Camai Community Health Center, the State of Alaska, and Cue Health. 
