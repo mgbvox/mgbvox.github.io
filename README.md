@@ -4,7 +4,7 @@
 ## Machine Learning
 
 ### [dspy](https://github.com/mgbvox/dspy) (contributor)
-![image](https://github.com/stanfordnlp/dspy/blob/main/docs/images/DSPy8.png)
+![image](/static/images/DSPy8.png)
 
 DSPy is a framework designed to optimize language model (LM) 
 prompts and weights algorithmically, particularly in complex 
