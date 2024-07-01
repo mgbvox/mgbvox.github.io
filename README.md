@@ -32,7 +32,7 @@ Various adaptions of the Transformer machine learning architecture, for use in v
 
 ## Cross-Platform Dev Projects
 
-### (iDash)[https://github.com/mgbvox/idash]
+### [iDash](https://github.com/mgbvox/idash)
 A personal mental health dashboard developed in Flutter + Dart.
 
 ## Public Health
