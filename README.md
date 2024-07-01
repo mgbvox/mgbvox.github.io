@@ -30,6 +30,11 @@ Various adaptions of the Transformer machine learning architecture, for use in v
 <li>Semantic Highlighting</li>
 <br>
 
+## Cross-Platform Dev Projects
+
+### (iDash)[https://github.com/mgbvox/idash]
+A personal mental health dashboard developed in Flutter + Dart.
+
 ## Public Health
 
 ### [Camai CHC COVID Data System](/public_health/camai.md)
