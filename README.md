@@ -3,6 +3,12 @@
 
 ## Machine Learning
 
+### [Test-Driven Generation (tdg)](https://github.com/mgbvox/tdg) (Research)
+A python library for AI pair programming, centered in the principles of Test Driven Development.
+Developed for research purposes ([whitepaper](https://github.com/mgbvox/tdg/tree/main/whitepaper_wip)),
+though may eventually be fully developed as a pytest plugin (time permitting).
+
+
 ### [dspy](https://github.com/mgbvox/dspy) (contributor)
 ![image](/static/images/DSPy8.png)
 
