@@ -1,5 +1,29 @@
 # Welcome to Matthew Billman's Code Portfolio!
 
+
+## Machine Learning
+
+### [dspy](https://github.com/mgbvox/dspy) (contributor)
+![image](https://github.com/stanfordnlp/dspy/blob/main/docs/images/DSPy8.png)
+
+DSPy is a framework designed to optimize language model (LM) 
+prompts and weights algorithmically, particularly in complex 
+pipelines. It simplifies the traditionally messy process of 
+manually tweaking prompts and finetuning steps by separating 
+program flow from parameters and introducing new optimizers.
+
+
+### [apteryx-transformers](https://github.com/apteryxlabs/apteryx-transformers)
+
+Various adaptions of the Transformer machine learning architecture, for use in varied NLP and NLP-adjacent fields:
+<li>Sequence Classification</li>
+<li>Sequence Generation</li>
+<li>Semantic Embedding and Interpolation</li>
+<li>Noun Phrase Detection</li>
+<li>Simulated Annealing</li>
+<li>Semantic Highlighting</li>
+<br>
+
 ## Public Health
 
 ### [Camai CHC COVID Data System](/public_health/camai.md)
@@ -13,18 +37,6 @@ An e-commerce, blog, student portal, and performance diagnostics site build for 
 ### [Reportgen](https://github.com/mgbvox/rg-public)
 A test grading and report generation software that serves as the glue between ibidPrep's many sources of data.
 
-## Machine Learning
-
-### [apteryx-transformers](https://github.com/apteryxlabs/apteryx-transformers)
-
-Various adaptions of the Transformer machine learning architecture, for use in varied NLP and NLP-adjacent fields:
-<li>Sequence Classification</li>
-<li>Sequence Generation</li>
-<li>Semantic Embedding and Interpolation</li>
-<li>Noun Phrase Detection</li>
-<li>Simulated Annealing</li>
-<li>Semantic Highlighting</li>
-<br>
 
 ## Networking Utils
 
