@@ -31,6 +31,8 @@ Various adaptions of the Transformer machine learning architecture, for use in v
 <br>
 
 ## Cross-Platform Dev Projects
+### [netmon](https://github.com/mgbvox/netmon)
+A simple network performance analysis toolkit.
 
 ### [iDash](https://github.com/mgbvox/idash)
 A personal mental health dashboard developed in Flutter + Dart.
