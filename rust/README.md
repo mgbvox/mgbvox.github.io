@@ -5,10 +5,11 @@
 ### [Candle-MNIST](https://github.com/mgbvox/candle-mnist.git)
 An exploration of Huggingface's Candle ML library, applied to MNIST.
 
+### [my-redis](https://github.com/mgbvox/my-redis.git)
+An implementation of mini-redis using Tokio. 
 
 ### [Space Game](https://github.com/mgbvox/space_game.git)
 A 2D physics simulation/game in Bevy+Rust.
-
 
 ### [netmon](https://github.com/mgbvox/netmon)
 <img src="https://github.com/mgbvox/netmon/raw/main/netmon_logo.png" width="200" alt="netmon logo"/>
@@ -21,5 +22,3 @@ A simple network performance analysis toolkit.
 
 A tiny TUI pomodoro timer.
 
-### [my-redis](https://github.com/mgbvox/my-redis.git)
-An implementation of mini-redis using Tokio. 
