@@ -1,3 +1,5 @@
+[⬅️ home](../README.md)
+
 # Camai CHC COVID Data System
 <p align=center>
     <img src="https://mgbvox.github.io/static/images/alaska_salmon.png" alt="" width=200>
