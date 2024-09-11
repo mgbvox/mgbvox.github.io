@@ -12,6 +12,10 @@ Feel free to reach out!
 
 _I make music too: [matthewbillman.com](https://matthewbillman.com)_
 
+## Resumé
+[![Download Resumé](https://img.shields.io/badge/Download-Resumé-blue?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1GoFFqldD1_iJY7J1REidNIGifriDVZBS)
+[![View Resumé](https://img.shields.io/badge/View-Resumé-green?style=for-the-badge)](https://drive.google.com/file/d/1GoFFqldD1_iJY7J1REidNIGifriDVZBS/view?usp=drive_link)
+
 
 
 ## [Rust Projects](/rust/README.md)
