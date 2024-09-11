@@ -2,8 +2,6 @@
 This is a collection of my open-source code. Proprietary works can be made available, in 
 redacted form, upon request and pending permission from stakeholders.
 
-If you're looking for my music, that's here: [matthewbillman.com](https://matthewbillman.com)
-
 Relevant Socials:
 
 [LinkedIn](https://www.linkedin.com/in/matthew-billman-b2b89248/)
@@ -12,6 +10,7 @@ Email: mgbvox AT gmail DOT com
 
 Feel free to reach out! 
 
+_I make music too: [matthewbillman.com](https://matthewbillman.com)_
 
 
 
