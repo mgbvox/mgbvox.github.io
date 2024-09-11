@@ -1,4 +1,4 @@
-[<- back](https://mgbvox.github.io)
+[⬅️ home](https://mgbvox.github.io)
 
 # Rust Projects
 
