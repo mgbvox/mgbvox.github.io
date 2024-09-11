@@ -1,6 +1,5 @@
 # Rust Projects
 
-## Rust
 ### [Space Game](https://github.com/mgbvox/space_game.git)
 A 2D physics simulation/game in Bevy+Rust.
 
