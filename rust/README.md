@@ -1,4 +1,4 @@
-[⬅️ home](https://mgbvox.github.io)
+[⬅️ home](../README.md)
 
 # Rust Projects
 
