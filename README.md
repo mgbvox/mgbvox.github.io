@@ -16,7 +16,8 @@ Feel free to reach out!
 
 
 ## [Rust Projects](/rust/README.md)
-![Ferris the Rustacean](https://rustacean.net/assets/rustacean-flat-happy.svg)
+<img src="https://rustacean.net/assets/rustacean-flat-happy.svg" alt="Ferris the Rustacean" width="250">
+
 A collection of rust applications I'm particularly proud of. 
 
 ## Machine Learning
