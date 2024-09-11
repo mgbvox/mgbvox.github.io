@@ -2,6 +2,10 @@
 
 # Rust Projects
 
+### [Candle-MNIST](https://github.com/mgbvox/candle-mnist.git)
+An exploration of Huggingface's Candle ML library, applied to MNIST.
+
+
 ### [Space Game](https://github.com/mgbvox/space_game.git)
 A 2D physics simulation/game in Bevy+Rust.
 
