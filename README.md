@@ -1,8 +1,10 @@
 # Welcome to Matthew Billman's Code Portfolio!
 
+## [Rust Projects](/rust/README.md)
+![Ferris the Rustacean](https://rustacean.net/assets/rustacean-flat-happy.svg)
+A collection of rust applications I'm particularly proud of. 
 
 ## Machine Learning
-
 ### [Test-Driven Generation (tdg)](https://github.com/mgbvox/tdg) (Research)
 A python library for AI pair programming, centered in the principles of Test Driven Development.
 Developed for research purposes ([whitepaper](https://github.com/mgbvox/tdg/tree/main/whitepaper_wip)),
@@ -30,10 +32,9 @@ Various adaptions of the Transformer machine learning architecture, for use in v
 <li>Semantic Highlighting</li>
 <br>
 
-## Cross-Platform Dev Projects
-### [netmon](https://github.com/mgbvox/netmon)
-A simple network performance analysis toolkit.
 
+
+## Cross-Platform Dev Projects
 ### [iDash](https://github.com/mgbvox/idash)
 A personal mental health dashboard developed in Flutter + Dart.
 
