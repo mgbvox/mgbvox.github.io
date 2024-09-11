@@ -2,20 +2,14 @@
 This is a collection of my open-source code. Proprietary works can be made available, in 
 redacted form, upon request and pending permission from stakeholders.
 
-Relevant Socials:
-
-[LinkedIn](https://www.linkedin.com/in/matthew-billman-b2b89248/)
-
-Email: mgbvox AT gmail DOT com
-
-Feel free to reach out! 
-
 _I make music too: [matthewbillman.com](https://matthewbillman.com)_
 
 ## Resumé + Links
 [![Download Resumé](https://img.shields.io/badge/Download-Resumé-blue?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1GoFFqldD1_iJY7J1REidNIGifriDVZBS)
 [![View Resumé](https://img.shields.io/badge/View-Resumé-green?style=for-the-badge)](https://drive.google.com/file/d/1GoFFqldD1_iJY7J1REidNIGifriDVZBS/view?usp=drive_link)
+
 [![Email Me](https://img.shields.io/badge/Email-Me-white?style=for-the-badge)](mailto:mgbvox@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cyan?style=for-the-badge)](https://www.linkedin.com/in/matthew-billman-b2b89248/)
 
 
 
