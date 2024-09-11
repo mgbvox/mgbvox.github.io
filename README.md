@@ -14,7 +14,7 @@ _I make music too: [matthewbillman.com](https://matthewbillman.com)_
 
 
 ## [Rust Projects](/rust/README.md)
-<img src="https://rustacean.net/assets/rustacean-flat-happy.svg" alt="Ferris the Rustacean" width="250">
+[<img src="https://rustacean.net/assets/rustacean-flat-happy.svg" alt="Ferris the Rustacean" width="250">](/rust/README.md)
 
 A collection of rust applications I'm particularly proud of. 
 
