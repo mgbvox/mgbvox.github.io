@@ -1,6 +1,5 @@
 # Welcome to Matthew Billman's Code Portfolio!
-This is a collection of my open-source code. Proprietary works can be made available, in 
-redacted form, upon request and pending permission from stakeholders.
+This is a collection of my open-source code. 
 
 _I make music too: [matthewbillman.com](https://matthewbillman.com)_
 
