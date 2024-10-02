@@ -2,6 +2,9 @@
 
 # Rust Projects
 
+### [Embedded Rust](https://github.com/mgbvox/lightshow)
+Wherein I experiment with embedded rust on the micro:bit v2.
+
 ### [Candle-MNIST](https://github.com/mgbvox/candle-mnist.git)
 An exploration of Huggingface's Candle ML library, applied to MNIST.
 
