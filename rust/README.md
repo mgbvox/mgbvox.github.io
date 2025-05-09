@@ -3,7 +3,7 @@
 # Rust Projects
 
 ### [Gravity Game](https://github.com/mgbvox/gravity_game_II)
-Wherein particles are attracted to the cursor... and you have control over the VERY LAWS OF PHYSICS THEMSELVES!!!
+Wherein particles are attracted to the cursor... and you have power over the VERY LAWS OF PHYSICS THEMSELVES!!!
 
 **[Play it Live](https://d34qhkfl761lxv.cloudfront.net)**
 
