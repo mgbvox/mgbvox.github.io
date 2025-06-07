@@ -10,7 +10,7 @@ _I make music too: [matthewbillman.com](https://matthewbillman.com)_
 [![Email Me](https://img.shields.io/badge/Email-Me-white?style=for-the-badge)](mailto:mgbvox@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cyan?style=for-the-badge)](https://www.linkedin.com/in/matthew-billman-b2b89248/)
 
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6ba3861d-6031-4294-be2c-d9fabced9fa7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## [Rust Projects](/rust/README.md)
 [<img src="https://rustacean.net/assets/rustacean-flat-happy.svg" alt="Ferris the Rustacean" width="250">](/rust/README.md)
